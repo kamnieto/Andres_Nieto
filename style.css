@@ -1,0 +1,95 @@
+/* CSS files add styling rules to your cintent */
+
+body {
+    margin: 0cm;
+    font-family: "Noto Sans", sans-serif;
+  }
+  .nav-item {
+    color: white;
+  }
+  .navbar-brand {
+    color: white;
+  }
+  .nav-link {
+    color: rgba(223, 223, 223, 0.7);
+  }
+  .cover {
+    height: 480px;
+    background-image: url(https://cdn.glitch.global/67fae7b2-54b7-45b9-bdcf-de861186bfb7/tituloPortafolio.png?v=1657646572934);
+    color: white;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.6);
+  }
+  .coverCasino {
+    height: 300px;
+    background-image: url(https://cdn.glitch.global/67fae7b2-54b7-45b9-bdcf-de861186bfb7/casinoCodigo.PNG?v=1657665268410);
+    color: white;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 20, 0, 0.4);
+    background-blend-mode: darken;
+  }
+  .coverRobot {
+    height: 300px;
+    background-image: url(https://cdn.glitch.global/67fae7b2-54b7-45b9-bdcf-de861186bfb7/carro.PNG?v=1657665705049);
+    color: white;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 20, 0, 0.4);
+    background-blend-mode: darken;
+  }
+  .coverContador {
+    height: 300px;
+    background-image: url(https://cdn.glitch.global/67fae7b2-54b7-45b9-bdcf-de861186bfb7/contadorProgramable.PNG?v=1657669873580);
+    color: white;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 20, 0, 0.4);
+    background-blend-mode: darken;
+  }
+  .cover-text {
+    color: black;
+  }
+  .cover-small {
+    height: 300px;
+    background-blend-mode: normal;
+  }
+  .cover-small-mas {
+    height: 200px;
+    background-blend-mode: normal;
+  }
+  
+  .card {
+    box-shadow: 0 4px 6px -1px rgba(0, 15, 0, 0.4),
+      0 2px 4px -1px rgba(0, 15, 0, 0.4);
+  }
+  .card-title {
+    color: rgba(175, 150, 97, 1);
+    min-height: 2.5rem;
+  }
+  .card-text {
+    min-height: 8rem;
+  }
+  .card-text-mas {
+    min-height: 2rem;
+  }
+  
+  .image {
+    height: 150px;
+    width: 150px;
+  }
+  .video {
+    display: flex;
+    margin-right: 22rem;
+    margin-left: 22rem;
+    background-color: rgba(175, 150, 97, 1);
+  }
+  .captura {
+    overflow-x: scroll;
+    padding-top: 3rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 1rem;
+  }
+  
